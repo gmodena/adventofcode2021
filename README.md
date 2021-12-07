@@ -12,4 +12,4 @@ This year I'm brushing up Scala and functional programming.
 4. Grid (matrix representation).
 5. Geometry ([enumerate points on a segment](https://en.wikipedia.org/wiki/Line_drawing_algorithm)).
 6. Hashtable
-
+7. Cost minimization
