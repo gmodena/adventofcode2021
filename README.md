@@ -13,3 +13,8 @@ This year I'm brushing up Scala and functional programming.
 5. Geometry ([enumerate points on a segment](https://en.wikipedia.org/wiki/Line_drawing_algorithm)).
 6. Hashtable
 7. Cost minimization
+8.
+9. Grid
+10.
+11.
+12. Graph Traversal
